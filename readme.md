@@ -1,3 +1,6 @@
+# Moved check [**akameco/babel-plugin-react-remove-classname**](https://github.com/akameco/babel-plugin-react-remove-classname)
+
+
 # babel-plugin-react-remove-classname-test
 
 [![Build Status](https://travis-ci.org/akameco/babel-plugin-react-remove-classname-test.svg?branch=master)](https://travis-ci.org/akameco/babel-plugin-react-remove-classname-test)
